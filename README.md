@@ -1,0 +1,1 @@
+# strapi-ec2-terraform
