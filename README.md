@@ -7,7 +7,6 @@ As part of the task, an EC2 instance, security group, and key pair were created 
 All relevant Terraform configuration files were pushed to this GitHub repository, and a Loom video was recorded to demonstrate the setup and deployment process.
 
 Loom Demo Video
-
 🔗 Loom video link:
 https://www.loom.com/share/b49207320d4b4c56ba08d0053399f591
 
